@@ -1,2 +1,0 @@
-# nishka-chotai
-my github 
